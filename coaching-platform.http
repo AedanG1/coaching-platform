@@ -1,4 +1,4 @@
-@coaching_platform_HostAddress = http://localhost:5206
+@coaching_platform_HostAddress = http://localhost:5227
 
 GET {{coaching_platform_HostAddress}}/weatherforecast/
 Accept: application/json
