@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace coaching_platform.Controllers;
+namespace CoachingPlatform.Controllers;
 
 [ApiController]
 [Route("[controller]")]
